@@ -10,7 +10,7 @@
 
 With Love Shashank G💙.
 
-
+![preview.png](https://github.com/007shashi/Simple-React-Project/blob/main/preview.png)
 
 
 # Getting Started with Create React App
